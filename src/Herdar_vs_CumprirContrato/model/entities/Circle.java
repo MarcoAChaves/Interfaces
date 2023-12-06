@@ -2,7 +2,7 @@ package Herdar_vs_CumprirContrato.model.entities;
 
 import Herdar_vs_CumprirContrato.model.enums.Color;
 
-public class Circle extends Shape{
+public class Circle extends AbstractShape{
 
     private Double radius;
 

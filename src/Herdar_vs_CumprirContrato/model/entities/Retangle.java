@@ -2,7 +2,7 @@ package Herdar_vs_CumprirContrato.model.entities;
 
 import Herdar_vs_CumprirContrato.model.enums.Color;
 
-public class Retangle extends Shape{
+public class Retangle extends AbstractShape{
 
     private Double width;
     private Double height;
